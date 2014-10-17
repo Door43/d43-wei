@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wei:home|Door43 (wei)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wei|d43-wei repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wei/archive/master.zip|d43-wei.zip]]
+
+**Recent Changes**
+{{changes>ns = wei}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wei|Ethnologue data]]
+
